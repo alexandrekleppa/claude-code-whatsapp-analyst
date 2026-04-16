@@ -1,0 +1,20 @@
+# Dados de entrada (sensíveis — contêm telefones e mensagens reais)
+input/whatsapp-conversations/*
+!input/whatsapp-conversations/.gitkeep
+
+# Relatórios gerados
+output/*
+!output/.gitkeep
+
+# Ambiente e cache
+.DS_Store
+*.log
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+.env.local
+
+# Claude Code local
+.claude/
