@@ -1,0 +1,1354 @@
+{
+  "meta": {
+    "data_min": "2026-04-16T15:44:54.692000+00:00",
+    "data_max": "2026-05-11T22:32:57.323000+00:00",
+    "total_messages": 1542,
+    "outgoing": 1106,
+    "incoming": 436,
+    "total_calls": 1899,
+    "calls_success": 1648,
+    "total_leads": 360,
+    "total_notes": 290,
+    "total_prosp": 391
+  },
+  "templates": [
+    {
+      "name": "fup1",
+      "sent": 151,
+      "read_rate": 0.7058823529411765,
+      "resp_rate": 0.16556291390728478,
+      "speed_min": 42.18476666666666,
+      "wilson_read": 0.6244946007466786,
+      "wilson_resp": 0.11473010180823269,
+      "classe": "WINNER",
+      "failed": 11
+    },
+    {
+      "name": "abertura_v2",
+      "sent": 237,
+      "read_rate": 0.6620370370370371,
+      "resp_rate": 0.2489451476793249,
+      "speed_min": 64.63800833333333,
+      "wilson_read": 0.5966131296655803,
+      "wilson_resp": 0.19819230176165273,
+      "classe": "WINNER",
+      "failed": 19
+    },
+    {
+      "name": "db",
+      "sent": 75,
+      "read_rate": 0.6617647058823529,
+      "resp_rate": 0.18666666666666668,
+      "speed_min": 11.1713,
+      "wilson_read": 0.5433701723652863,
+      "wilson_resp": 0.11458005622312066,
+      "classe": "WINNER",
+      "failed": 3
+    },
+    {
+      "name": "fup_2",
+      "sent": 115,
+      "read_rate": 0.5922330097087378,
+      "resp_rate": 0.2608695652173913,
+      "speed_min": 21.96335,
+      "wilson_read": 0.4956743541105068,
+      "wilson_resp": 0.18927348744454853,
+      "classe": "WINNER",
+      "failed": 8
+    }
+  ],
+  "timing_slots": [
+    {
+      "dow": 2,
+      "bucket": 15,
+      "sent": 10,
+      "read": 10,
+      "read_rate": 1.0,
+      "wilson": 0.7224598312333834
+    },
+    {
+      "dow": 2,
+      "bucket": 12,
+      "sent": 10,
+      "read": 10,
+      "read_rate": 1.0,
+      "wilson": 0.7224598312333834
+    },
+    {
+      "dow": 3,
+      "bucket": 12,
+      "sent": 19,
+      "read": 17,
+      "read_rate": 0.8947368421052632,
+      "wilson": 0.6860544950515831
+    },
+    {
+      "dow": 2,
+      "bucket": 9,
+      "sent": 13,
+      "read": 12,
+      "read_rate": 0.9230769230769231,
+      "wilson": 0.6668546607175265
+    },
+    {
+      "dow": 0,
+      "bucket": 21,
+      "sent": 88,
+      "read": 66,
+      "read_rate": 0.75,
+      "wilson": 0.6503677405484404
+    },
+    {
+      "dow": 2,
+      "bucket": 21,
+      "sent": 147,
+      "read": 98,
+      "read_rate": 0.6666666666666666,
+      "wilson": 0.5870727007499073
+    },
+    {
+      "dow": 3,
+      "bucket": 21,
+      "sent": 53,
+      "read": 36,
+      "read_rate": 0.6792452830188679,
+      "wilson": 0.5451826763724886
+    },
+    {
+      "dow": 0,
+      "bucket": 18,
+      "sent": 47,
+      "read": 31,
+      "read_rate": 0.6595744680851063,
+      "wilson": 0.5167065950530297
+    },
+    {
+      "dow": 5,
+      "bucket": 15,
+      "sent": 4,
+      "read": 4,
+      "read_rate": 1.0,
+      "wilson": 0.5100999795960008
+    },
+    {
+      "dow": 4,
+      "bucket": 18,
+      "sent": 4,
+      "read": 4,
+      "read_rate": 1.0,
+      "wilson": 0.5100999795960008
+    },
+    {
+      "dow": 4,
+      "bucket": 15,
+      "sent": 48,
+      "read": 29,
+      "read_rate": 0.6041666666666666,
+      "wilson": 0.46310154596935116
+    },
+    {
+      "dow": 4,
+      "bucket": 0,
+      "sent": 78,
+      "read": 44,
+      "read_rate": 0.5641025641025641,
+      "wilson": 0.45361787664577374
+    },
+    {
+      "dow": 3,
+      "bucket": 15,
+      "sent": 62,
+      "read": 34,
+      "read_rate": 0.5483870967741935,
+      "wilson": 0.4253229453059872
+    },
+    {
+      "dow": 1,
+      "bucket": 21,
+      "sent": 23,
+      "read": 14,
+      "read_rate": 0.6086956521739131,
+      "wilson": 0.40785179603745997
+    },
+    {
+      "dow": 3,
+      "bucket": 18,
+      "sent": 22,
+      "read": 13,
+      "read_rate": 0.5909090909090909,
+      "wilson": 0.3873447738289381
+    },
+    {
+      "dow": 1,
+      "bucket": 15,
+      "sent": 37,
+      "read": 20,
+      "read_rate": 0.5405405405405406,
+      "wilson": 0.3838377952476737
+    },
+    {
+      "dow": 4,
+      "bucket": 9,
+      "sent": 85,
+      "read": 39,
+      "read_rate": 0.4588235294117647,
+      "wilson": 0.3569695582911919
+    },
+    {
+      "dow": 3,
+      "bucket": 9,
+      "sent": 96,
+      "read": 39,
+      "read_rate": 0.40625,
+      "wilson": 0.3134514434260545
+    },
+    {
+      "dow": 4,
+      "bucket": 21,
+      "sent": 61,
+      "read": 26,
+      "read_rate": 0.4262295081967213,
+      "wilson": 0.31015028557967433
+    },
+    {
+      "dow": 5,
+      "bucket": 21,
+      "sent": 22,
+      "read": 10,
+      "read_rate": 0.45454545454545453,
+      "wilson": 0.26920014432004846
+    },
+    {
+      "dow": 2,
+      "bucket": 18,
+      "sent": 3,
+      "read": 2,
+      "read_rate": 0.6666666666666666,
+      "wilson": 0.20765495512648788
+    },
+    {
+      "dow": 2,
+      "bucket": 0,
+      "sent": 1,
+      "read": 1,
+      "read_rate": 1.0,
+      "wilson": 0.20654329147389294
+    },
+    {
+      "dow": 3,
+      "bucket": 0,
+      "sent": 1,
+      "read": 1,
+      "read_rate": 1.0,
+      "wilson": 0.20654329147389294
+    },
+    {
+      "dow": 0,
+      "bucket": 9,
+      "sent": 4,
+      "read": 2,
+      "read_rate": 0.5,
+      "wilson": 0.15003570882017145
+    },
+    {
+      "dow": 4,
+      "bucket": 12,
+      "sent": 78,
+      "read": 11,
+      "read_rate": 0.14102564102564102,
+      "wilson": 0.08060961324830107
+    },
+    {
+      "dow": 0,
+      "bucket": 15,
+      "sent": 31,
+      "read": 4,
+      "read_rate": 0.12903225806451613,
+      "wilson": 0.05134201164644764
+    },
+    {
+      "dow": 5,
+      "bucket": 0,
+      "sent": 4,
+      "read": 1,
+      "read_rate": 0.25,
+      "wilson": 0.045586062644636216
+    },
+    {
+      "dow": 0,
+      "bucket": 12,
+      "sent": 42,
+      "read": 1,
+      "read_rate": 0.023809523809523808,
+      "wilson": 0.004215295499100293
+    },
+    {
+      "dow": 4,
+      "bucket": 3,
+      "sent": 1,
+      "read": 0,
+      "read_rate": 0.0,
+      "wilson": 0.0
+    },
+    {
+      "dow": 1,
+      "bucket": 0,
+      "sent": 1,
+      "read": 0,
+      "read_rate": 0.0,
+      "wilson": 0.0
+    },
+    {
+      "dow": 5,
+      "bucket": 9,
+      "sent": 1,
+      "read": 0,
+      "read_rate": 0.0,
+      "wilson": 0.0
+    },
+    {
+      "dow": 1,
+      "bucket": 18,
+      "sent": 10,
+      "read": 0,
+      "read_rate": 0.0,
+      "wilson": 0.0
+    }
+  ],
+  "angles": [
+    {
+      "angle": "direto",
+      "sent": 42,
+      "read_rate": 0.5952380952380952,
+      "resp_rate": 1.0
+    },
+    {
+      "angle": "prova_social",
+      "sent": 638,
+      "read_rate": 0.5815047021943573,
+      "resp_rate": 0.2129032258064516
+    },
+    {
+      "angle": "reciprocidade",
+      "sent": 9,
+      "read_rate": 0.5555555555555556,
+      "resp_rate": 1.0
+    },
+    {
+      "angle": "perguntas",
+      "sent": 895,
+      "read_rate": 0.5407821229050279,
+      "resp_rate": 0.22297297297297297
+    },
+    {
+      "angle": "urgencia",
+      "sent": 712,
+      "read_rate": 0.5393258426966292,
+      "resp_rate": 0.22297297297297297
+    },
+    {
+      "angle": "dor",
+      "sent": 14,
+      "read_rate": 0.42857142857142855,
+      "resp_rate": 1.0
+    },
+    {
+      "angle": "exclusividade",
+      "sent": 4,
+      "read_rate": 0.0,
+      "resp_rate": 1.0
+    }
+  ],
+  "ddd": [
+    {
+      "ddd": "27",
+      "sent": 18,
+      "read_rate": 1.0,
+      "resp_rate": 0.5,
+      "threads": 2,
+      "wilson": 0.8241154494176252
+    },
+    {
+      "ddd": "41",
+      "sent": 46,
+      "read_rate": 0.8913043478260869,
+      "resp_rate": 0.13333333333333333,
+      "threads": 15,
+      "wilson": 0.7696189698736854
+    },
+    {
+      "ddd": "43",
+      "sent": 38,
+      "read_rate": 0.8421052631578947,
+      "resp_rate": 0.5,
+      "threads": 4,
+      "wilson": 0.6958287736272311
+    },
+    {
+      "ddd": "31",
+      "sent": 95,
+      "read_rate": 0.6947368421052632,
+      "resp_rate": 0.20689655172413793,
+      "threads": 29,
+      "wilson": 0.5960641518612952
+    },
+    {
+      "ddd": "51",
+      "sent": 24,
+      "read_rate": 0.7916666666666666,
+      "resp_rate": 0.09090909090909091,
+      "threads": 11,
+      "wilson": 0.5952915551476453
+    },
+    {
+      "ddd": "11",
+      "sent": 298,
+      "read_rate": 0.6409395973154363,
+      "resp_rate": 0.21904761904761905,
+      "threads": 105,
+      "wilson": 0.5849959816389667
+    },
+    {
+      "ddd": "61",
+      "sent": 20,
+      "read_rate": 0.8,
+      "resp_rate": 0.16666666666666666,
+      "threads": 6,
+      "wilson": 0.5839782779742402
+    },
+    {
+      "ddd": "34",
+      "sent": 9,
+      "read_rate": 0.8888888888888888,
+      "resp_rate": 0.0,
+      "threads": 5,
+      "wilson": 0.5649937852319398
+    },
+    {
+      "ddd": "19",
+      "sent": 88,
+      "read_rate": 0.6477272727272727,
+      "resp_rate": 0.32142857142857145,
+      "threads": 28,
+      "wilson": 0.543657919937886
+    },
+    {
+      "ddd": "21",
+      "sent": 70,
+      "read_rate": 0.6428571428571429,
+      "resp_rate": 0.2,
+      "threads": 20,
+      "wilson": 0.5258817704420135
+    },
+    {
+      "ddd": "47",
+      "sent": 4,
+      "read_rate": 1.0,
+      "resp_rate": 0.0,
+      "threads": 2,
+      "wilson": 0.5100999795960008
+    },
+    {
+      "ddd": "91",
+      "sent": 7,
+      "read_rate": 0.8571428571428571,
+      "resp_rate": 0.5,
+      "threads": 2,
+      "wilson": 0.4868654966809702
+    },
+    {
+      "ddd": "86",
+      "sent": 3,
+      "read_rate": 1.0,
+      "resp_rate": 0.0,
+      "threads": 1,
+      "wilson": 0.4384939195509822
+    },
+    {
+      "ddd": "71",
+      "sent": 11,
+      "read_rate": 0.6363636363636364,
+      "resp_rate": 0.0,
+      "threads": 6,
+      "wilson": 0.35379677689163724
+    },
+    {
+      "ddd": "66",
+      "sent": 2,
+      "read_rate": 1.0,
+      "resp_rate": 0.0,
+      "threads": 1,
+      "wilson": 0.3423719528896193
+    },
+    {
+      "ddd": "67",
+      "sent": 2,
+      "read_rate": 1.0,
+      "resp_rate": 0.0,
+      "threads": 1,
+      "wilson": 0.3423719528896193
+    },
+    {
+      "ddd": "38",
+      "sent": 2,
+      "read_rate": 1.0,
+      "resp_rate": 0.0,
+      "threads": 1,
+      "wilson": 0.3423719528896193
+    },
+    {
+      "ddd": "13",
+      "sent": 2,
+      "read_rate": 1.0,
+      "resp_rate": 0.0,
+      "threads": 1,
+      "wilson": 0.3423719528896193
+    },
+    {
+      "ddd": "44",
+      "sent": 2,
+      "read_rate": 1.0,
+      "resp_rate": 0.0,
+      "threads": 1,
+      "wilson": 0.3423719528896193
+    },
+    {
+      "ddd": "81",
+      "sent": 30,
+      "read_rate": 0.5,
+      "resp_rate": 0.2857142857142857,
+      "threads": 7,
+      "wilson": 0.3315385122717376
+    },
+    {
+      "ddd": "32",
+      "sent": 3,
+      "read_rate": 0.6666666666666666,
+      "resp_rate": 0.0,
+      "threads": 1,
+      "wilson": 0.20765495512648788
+    },
+    {
+      "ddd": "49",
+      "sent": 3,
+      "read_rate": 0.6666666666666666,
+      "resp_rate": 0.0,
+      "threads": 1,
+      "wilson": 0.20765495512648788
+    },
+    {
+      "ddd": "12",
+      "sent": 38,
+      "read_rate": 0.2631578947368421,
+      "resp_rate": 0.375,
+      "threads": 8,
+      "wilson": 0.14971462389701298
+    },
+    {
+      "ddd": "17",
+      "sent": 5,
+      "read_rate": 0.4,
+      "resp_rate": 0.0,
+      "threads": 3,
+      "wilson": 0.11761823115925325
+    },
+    {
+      "ddd": "85",
+      "sent": 55,
+      "read_rate": 0.2,
+      "resp_rate": 0.4,
+      "threads": 10,
+      "wilson": 0.1155209712045974
+    },
+    {
+      "ddd": "35",
+      "sent": 6,
+      "read_rate": 0.3333333333333333,
+      "resp_rate": 0.0,
+      "threads": 3,
+      "wilson": 0.09676933255921684
+    },
+    {
+      "ddd": "73",
+      "sent": 2,
+      "read_rate": 0.5,
+      "resp_rate": 0.0,
+      "threads": 2,
+      "wilson": 0.09452865480086611
+    },
+    {
+      "ddd": "55",
+      "sent": 2,
+      "read_rate": 0.5,
+      "resp_rate": 0.0,
+      "threads": 1,
+      "wilson": 0.09452865480086611
+    },
+    {
+      "ddd": "48",
+      "sent": 15,
+      "read_rate": 0.2,
+      "resp_rate": 0.16666666666666666,
+      "threads": 6,
+      "wilson": 0.07047420643610411
+    },
+    {
+      "ddd": "62",
+      "sent": 10,
+      "read_rate": 0.1,
+      "resp_rate": 0.2,
+      "threads": 5,
+      "wilson": 0.01787574951572113
+    },
+    {
+      "ddd": "77",
+      "sent": 145,
+      "read_rate": 0.034482758620689655,
+      "resp_rate": 0.3333333333333333,
+      "threads": 3,
+      "wilson": 0.014817001068388777
+    },
+    {
+      "ddd": "15",
+      "sent": 14,
+      "read_rate": 0.07142857142857142,
+      "resp_rate": 0.2,
+      "threads": 5,
+      "wilson": 0.012721886112291648
+    },
+    {
+      "ddd": "16",
+      "sent": 11,
+      "read_rate": 0.0,
+      "resp_rate": 0.25,
+      "threads": 4,
+      "wilson": 2.057132194452876e-17
+    },
+    {
+      "ddd": "82",
+      "sent": 2,
+      "read_rate": 0.0,
+      "resp_rate": 0.0,
+      "threads": 1,
+      "wilson": 0.0
+    },
+    {
+      "ddd": "64",
+      "sent": 1,
+      "read_rate": 0.0,
+      "resp_rate": 0.0,
+      "threads": 1,
+      "wilson": 0.0
+    },
+    {
+      "ddd": "37",
+      "sent": 2,
+      "read_rate": 0.0,
+      "resp_rate": 0.0,
+      "threads": 1,
+      "wilson": 0.0
+    },
+    {
+      "ddd": "92",
+      "sent": 7,
+      "read_rate": 0.0,
+      "resp_rate": 0.5,
+      "threads": 2,
+      "wilson": 0.0
+    },
+    {
+      "ddd": "83",
+      "sent": 8,
+      "read_rate": 0.0,
+      "resp_rate": 1.0,
+      "threads": 1,
+      "wilson": 0.0
+    },
+    {
+      "ddd": "75",
+      "sent": 2,
+      "read_rate": 0.0,
+      "resp_rate": 0.0,
+      "threads": 2,
+      "wilson": 0.0
+    },
+    {
+      "ddd": "65",
+      "sent": 4,
+      "read_rate": 0.0,
+      "resp_rate": 0.0,
+      "threads": 2,
+      "wilson": 0.0
+    }
+  ],
+  "len_buckets": {
+    "200-400": {
+      "sent": 696,
+      "read_rate": 0.5675287356321839
+    },
+    "100-200": {
+      "sent": 284,
+      "read_rate": 0.4471830985915493
+    },
+    "0-100": {
+      "sent": 113,
+      "read_rate": 0.4424778761061947
+    },
+    "400+": {
+      "sent": 13,
+      "read_rate": 0.5384615384615384
+    }
+  },
+  "calls": {
+    "outcomes": {
+      "NOT_MEANINGFUL": 341,
+      "NO_CONTACT": 1399,
+      "MEANINGFUL": 49,
+      "WRONG_NUMBER": 19,
+      "UNAVAILABLE_PERSONA": 46,
+      "GATEKEEPER": 28,
+      "null": 17
+    },
+    "statuses": {
+      "SUCCESS": 1648,
+      "FAILED": 251
+    },
+    "hangups": {
+      "NORMAL_CLEARING": 1639,
+      "VOICEMAIL_DETECTED": 251,
+      "NORMAL_TEMPORARY_FAILURE": 8,
+      "CAUSE_65": 1
+    },
+    "avg_duration": 28.72689075630252,
+    "median_duration": 13.0,
+    "avg_score": 0.6087528729440495,
+    "scored_calls": 221,
+    "slot_top10": [
+      {
+        "dow": 1,
+        "bucket": 12,
+        "total": 61,
+        "connect_rate": 0.9836065573770492,
+        "meaningful_rate": 0.05,
+        "avg_score": 0.6032837301587302,
+        "wilson_connect": 0.9128093437223194
+      },
+      {
+        "dow": 0,
+        "bucket": 12,
+        "total": 285,
+        "connect_rate": 0.9017543859649123,
+        "meaningful_rate": 0.0311284046692607,
+        "avg_score": 0.6075399831649831,
+        "wilson_connect": 0.8616713574798227
+      },
+      {
+        "dow": 3,
+        "bucket": 12,
+        "total": 69,
+        "connect_rate": 0.927536231884058,
+        "meaningful_rate": 0.0,
+        "avg_score": 0.5256117724867725,
+        "wilson_connect": 0.8413240258191715
+      },
+      {
+        "dow": 4,
+        "bucket": 12,
+        "total": 156,
+        "connect_rate": 0.8846153846153846,
+        "meaningful_rate": 0.021739130434782608,
+        "avg_score": 0.6391904761904762,
+        "wilson_connect": 0.8249870895515745
+      },
+      {
+        "dow": 3,
+        "bucket": 18,
+        "total": 36,
+        "connect_rate": 0.9444444444444444,
+        "meaningful_rate": 0.058823529411764705,
+        "avg_score": 0.6120238095238095,
+        "wilson_connect": 0.8185502589238879
+      },
+      {
+        "dow": 3,
+        "bucket": 15,
+        "total": 152,
+        "connect_rate": 0.875,
+        "meaningful_rate": 0.015037593984962405,
+        "avg_score": 0.5789227092352093,
+        "wilson_connect": 0.813014945134161
+      },
+      {
+        "dow": 4,
+        "bucket": 21,
+        "total": 62,
+        "connect_rate": 0.9032258064516129,
+        "meaningful_rate": 0.0,
+        "avg_score": 0.6466468253968254,
+        "wilson_connect": 0.8045095713255586
+      },
+      {
+        "dow": 2,
+        "bucket": 12,
+        "total": 117,
+        "connect_rate": 0.8632478632478633,
+        "meaningful_rate": 0.0297029702970297,
+        "avg_score": 0.5717049319727892,
+        "wilson_connect": 0.7893603878029153
+      },
+      {
+        "dow": 4,
+        "bucket": 18,
+        "total": 14,
+        "connect_rate": 1.0,
+        "meaningful_rate": 0.14285714285714285,
+        "avg_score": 0.7355654761904762,
+        "wilson_connect": 0.7846829880728186
+      },
+      {
+        "dow": 4,
+        "bucket": 15,
+        "total": 142,
+        "connect_rate": 0.852112676056338,
+        "meaningful_rate": 0.04132231404958678,
+        "avg_score": 0.5812734962406015,
+        "wilson_connect": 0.7844817476592169
+      }
+    ],
+    "slot_bot10": [
+      {
+        "dow": 1,
+        "bucket": 15,
+        "total": 15,
+        "connect_rate": 0.8666666666666667,
+        "meaningful_rate": 0.0,
+        "avg_score": 0,
+        "wilson_connect": 0.6211750079348376
+      },
+      {
+        "dow": 1,
+        "bucket": 18,
+        "total": 5,
+        "connect_rate": 1.0,
+        "meaningful_rate": 0.0,
+        "avg_score": 0,
+        "wilson_connect": 0.565508505247919
+      },
+      {
+        "dow": 0,
+        "bucket": 9,
+        "total": 5,
+        "connect_rate": 1.0,
+        "meaningful_rate": 0.2,
+        "avg_score": 0.725,
+        "wilson_connect": 0.565508505247919
+      },
+      {
+        "dow": 0,
+        "bucket": 21,
+        "total": 10,
+        "connect_rate": 0.8,
+        "meaningful_rate": 0.25,
+        "avg_score": 0.81875,
+        "wilson_connect": 0.49015684672072346
+      },
+      {
+        "dow": 5,
+        "bucket": 9,
+        "total": 2,
+        "connect_rate": 1.0,
+        "meaningful_rate": 0.5,
+        "avg_score": 0.7291666666666666,
+        "wilson_connect": 0.3423719528896193
+      },
+      {
+        "dow": 1,
+        "bucket": 9,
+        "total": 6,
+        "connect_rate": 0.6666666666666666,
+        "meaningful_rate": 0.0,
+        "avg_score": 0,
+        "wilson_connect": 0.2999883213415286
+      },
+      {
+        "dow": 3,
+        "bucket": 6,
+        "total": 1,
+        "connect_rate": 1.0,
+        "meaningful_rate": 0.0,
+        "avg_score": 0,
+        "wilson_connect": 0.20654329147389294
+      },
+      {
+        "dow": 2,
+        "bucket": 9,
+        "total": 1,
+        "connect_rate": 1.0,
+        "meaningful_rate": 0.0,
+        "avg_score": 0,
+        "wilson_connect": 0.20654329147389294
+      },
+      {
+        "dow": 4,
+        "bucket": 0,
+        "total": 1,
+        "connect_rate": 1.0,
+        "meaningful_rate": 0.0,
+        "avg_score": 0,
+        "wilson_connect": 0.20654329147389294
+      },
+      {
+        "dow": 5,
+        "bucket": 18,
+        "total": 1,
+        "connect_rate": 0.0,
+        "meaningful_rate": 0,
+        "avg_score": 0,
+        "wilson_connect": 0.0
+      }
+    ],
+    "dur_buckets": {
+      "10-30s": {
+        "total": 904,
+        "meaningful_rate": 0.008849557522123894
+      },
+      "30-60s": {
+        "total": 142,
+        "meaningful_rate": 0.007042253521126761
+      },
+      "0-10s": {
+        "total": 652,
+        "meaningful_rate": 0.0015337423312883436
+      },
+      "120s+": {
+        "total": 69,
+        "meaningful_rate": 0.5072463768115942
+      },
+      "60-120s": {
+        "total": 132,
+        "meaningful_rate": 0.030303030303030304
+      }
+    }
+  },
+  "transcription": {
+    "calls_with_segs": 1628,
+    "median_talk_ratio_sdr": null,
+    "median_turns": 2.0
+  },
+  "lead_signals": {
+    "AGENDOU": 30,
+    "TIMING": 12,
+    "CONFIANCA": 15,
+    "PEDIU_MATERIAL": 16,
+    "PERGUNTOU_PRECO": 8,
+    "CONCORRENCIA": 19,
+    "NECESSIDADE": 15,
+    "AUTORIDADE": 4,
+    "PRECO": 3
+  },
+  "cadence": {
+    "first_touch": {
+      "CALL": {
+        "DISCARDED": 33,
+        "FINISHED": 50,
+        "IN_PROGRESS": 264
+      }
+    },
+    "touchpoint_stats": {
+      "median_msgs_out": 2.0,
+      "median_calls": 5.0
+    },
+    "routine_steps": [
+      {
+        "routine": "[Base Wellhub]",
+        "day": 0,
+        "order": 0,
+        "type": "CALL"
+      },
+      {
+        "routine": "[Base Wellhub]",
+        "day": 0,
+        "order": 0,
+        "type": "WHATSAPP_MESSAGE"
+      },
+      {
+        "routine": "[Base Wellhub]",
+        "day": 1,
+        "order": 1,
+        "type": "WHATSAPP_MESSAGE"
+      },
+      {
+        "routine": "[Base Wellhub]",
+        "day": 2,
+        "order": 2,
+        "type": "CALL"
+      },
+      {
+        "routine": "[Base Wellhub]",
+        "day": 2,
+        "order": 2,
+        "type": "WHATSAPP_MESSAGE"
+      },
+      {
+        "routine": "[Base Wellhub]",
+        "day": 3,
+        "order": 3,
+        "type": "CALL"
+      },
+      {
+        "routine": "[Base Wellhub]",
+        "day": 4,
+        "order": 4,
+        "type": "CALL"
+      },
+      {
+        "routine": "[Base Wellhub]",
+        "day": 4,
+        "order": 4,
+        "type": "WHATSAPP_MESSAGE"
+      },
+      {
+        "routine": "Teste [Base empresas at\u00e9 500 colaboradores]",
+        "day": 0,
+        "order": 0,
+        "type": "CALL"
+      },
+      {
+        "routine": "Teste [Base empresas com + 500 colaboradores]",
+        "day": 0,
+        "order": 0,
+        "type": "CALL"
+      },
+      {
+        "routine": "Cadencia Teste Stella",
+        "day": 0,
+        "order": 0,
+        "type": "CALL"
+      },
+      {
+        "routine": "Cadencia Teste Stella",
+        "day": 1,
+        "order": 1,
+        "type": "CALL"
+      },
+      {
+        "routine": "Cad\u00eancia teste enterprise",
+        "day": 0,
+        "order": 0,
+        "type": "CALL"
+      },
+      {
+        "routine": "Cad\u00eancia teste enterprise",
+        "day": 0,
+        "order": 0,
+        "type": "CALL"
+      },
+      {
+        "routine": "Cad\u00eancia teste enterprise",
+        "day": 0,
+        "order": 0,
+        "type": "CALL"
+      }
+    ],
+    "calls_before_response_median": null
+  },
+  "journey": {
+    "status_breakdown": {
+      "FINISHED": 52,
+      "DISCARDED": 3,
+      "IN_PROGRESS": 305
+    },
+    "industry_outcomes": [
+      {
+        "industry": "Odontologia",
+        "total": 1,
+        "finished": 1,
+        "discarded": 0,
+        "in_progress": 0,
+        "finished_rate": 1.0
+      },
+      {
+        "industry": "Educa\u00e7\u00e3o (escolas)",
+        "total": 1,
+        "finished": 1,
+        "discarded": 0,
+        "in_progress": 0,
+        "finished_rate": 1.0
+      },
+      {
+        "industry": "?",
+        "total": 344,
+        "finished": 50,
+        "discarded": 3,
+        "in_progress": 291,
+        "finished_rate": 0.14534883720930233
+      },
+      {
+        "industry": "Varejo farmac\u00eautico",
+        "total": 1,
+        "finished": 0,
+        "discarded": 0,
+        "in_progress": 1,
+        "finished_rate": 0.0
+      },
+      {
+        "industry": "Seguros de vida",
+        "total": 1,
+        "finished": 0,
+        "discarded": 0,
+        "in_progress": 1,
+        "finished_rate": 0.0
+      },
+      {
+        "industry": "mercado f\u00edsico",
+        "total": 1,
+        "finished": 0,
+        "discarded": 0,
+        "in_progress": 1,
+        "finished_rate": 0.0
+      },
+      {
+        "industry": "Constru\u00e7\u00e3o",
+        "total": 1,
+        "finished": 0,
+        "discarded": 0,
+        "in_progress": 1,
+        "finished_rate": 0.0
+      },
+      {
+        "industry": "Autarquia p\u00fablica",
+        "total": 1,
+        "finished": 0,
+        "discarded": 0,
+        "in_progress": 1,
+        "finished_rate": 0.0
+      },
+      {
+        "industry": "Educa\u00e7\u00e3o",
+        "total": 1,
+        "finished": 0,
+        "discarded": 0,
+        "in_progress": 1,
+        "finished_rate": 0.0
+      },
+      {
+        "industry": "Cooperativa de Cr\u00e9dito",
+        "total": 1,
+        "finished": 0,
+        "discarded": 0,
+        "in_progress": 1,
+        "finished_rate": 0.0
+      },
+      {
+        "industry": "Advocacia",
+        "total": 1,
+        "finished": 0,
+        "discarded": 0,
+        "in_progress": 1,
+        "finished_rate": 0.0
+      },
+      {
+        "industry": "Automotivo",
+        "total": 1,
+        "finished": 0,
+        "discarded": 0,
+        "in_progress": 1,
+        "finished_rate": 0.0
+      },
+      {
+        "industry": "Servi\u00e7os de sa\u00fade",
+        "total": 1,
+        "finished": 0,
+        "discarded": 0,
+        "in_progress": 1,
+        "finished_rate": 0.0
+      },
+      {
+        "industry": "Seguros",
+        "total": 1,
+        "finished": 0,
+        "discarded": 0,
+        "in_progress": 1,
+        "finished_rate": 0.0
+      },
+      {
+        "industry": "Restaurante",
+        "total": 1,
+        "finished": 0,
+        "discarded": 0,
+        "in_progress": 1,
+        "finished_rate": 0.0
+      },
+      {
+        "industry": "Organiza\u00e7\u00e3o N\u00e3o Governamental (ONG)",
+        "total": 1,
+        "finished": 0,
+        "discarded": 0,
+        "in_progress": 1,
+        "finished_rate": 0.0
+      },
+      {
+        "industry": "\u00d3rg\u00e3o p\u00fablico (Procuradoria de Justi\u00e7a)",
+        "total": 1,
+        "finished": 0,
+        "discarded": 0,
+        "in_progress": 1,
+        "finished_rate": 0.0
+      }
+    ],
+    "cycle_finished_median": 1.0,
+    "cycle_discarded_median": 24
+  },
+  "playbook": {
+    "persona": "Seu nome \u00e9 Mariana, voc\u00ea \u00e9 especialista em Sa\u00fade Corporativa da Wellz (ou seja fazem parte do grupo da Wellhub)\n\nSeu objetivo:\nQualificar leads da base Wellhub, identificar ader\u00eancia \u00e0 solu\u00e7\u00e3o Wellz e conduzir para um pr\u00f3ximo passo com o time de vendas, garantindo que h\u00e1 fit, contexto e prioridade real.\nVoc\u00ea conversa com empresas que j\u00e1 s\u00e3o clientes da Wellhub, ent\u00e3o:\nExiste familiaridade com benef\u00edcios corporativos\nA abordagem N\u00c3O \u00e9 fria\nO objetivo \u00e9 expans\u00e3o / cross-sell (Wellz)\nVoc\u00ea pode falar que como ele j\u00e1 \u00e9 cliente Wellhub ele tem direito a condi\u00e7\u00f5es diferenciadas \n\nTom de fala:\nConsultivo, direto e profissional, com leve tom de curiosidade.\nSem ser invasiva ou \u201cvendedora\u201d.\nFaz perguntas inteligentes e conduz a conversa com naturalidade.\nEvita textos longos e foca em di\u00e1logo.\n\nN\u00e3o promete valores e descontos\nN\u00e3o promete emails\nVoc\u00ea N\u00c3O vende.\n\nVoc\u00ea deve:\nValidar fit (tamanho e contexto)\nEntender cen\u00e1rio atual de sa\u00fade mental\nIdentificar dor real ou prioridade\nMapear decisor e processo\nIdentificar se existe potencial de avan\u00e7o\n\nSe houver fit + interesse \u2192 direcionar para pr\u00f3ximo passo.\n\nSe a pessoa perguntar se voc\u00ea \u00e9 uma IA diga: \"Sim, sou a especialista em Sa\u00fade Corporativa virtual da Wellz''",
+    "pain_mentions": [
+      {
+        "pain": "Elevado turnover de talentos devido ao esgotamento emocional",
+        "keywords": [
+          "elevado",
+          "turnover",
+          "talentos"
+        ],
+        "mentions": 3
+      },
+      {
+        "pain": "Incidente de n\u00e3o conformidade com exig\u00eancias da NR-01",
+        "keywords": [
+          "incidente",
+          "conformidade",
+          "exig\u00eancias"
+        ],
+        "mentions": 3
+      },
+      {
+        "pain": "Alta taxa de absente\u00edsmo por afastamentos de sa\u00fade mental",
+        "keywords": [
+          "absente\u00edsmo",
+          "afastamentos",
+          "mental"
+        ],
+        "mentions": 576
+      },
+      {
+        "pain": "Dificuldade em mapear riscos psicossociais na equipe e elevado turnover de talentos devido ao esgotamento emocional",
+        "keywords": [
+          "dificuldade",
+          "mapear",
+          "riscos"
+        ],
+        "mentions": 406
+      },
+      {
+        "pain": "Presente\u00edsmo elevado impactando produtividade di\u00e1ria",
+        "keywords": [
+          "presente\u00edsmo",
+          "elevado",
+          "impactando"
+        ],
+        "mentions": 0
+      },
+      {
+        "pain": "Falta de dados consolidados sobre sa\u00fade emocional organizacional",
+        "keywords": [
+          "consolidados",
+          "emocional",
+          "organizacional"
+        ],
+        "mentions": 365
+      },
+      {
+        "pain": "Aumento de horas extras por sobrecarga emocional",
+        "keywords": [
+          "aumento",
+          "extras",
+          "sobrecarga"
+        ],
+        "mentions": 0
+      },
+      {
+        "pain": "Baixo engajamento em iniciativas internas de bem-estar",
+        "keywords": [
+          "engajamento",
+          "iniciativas",
+          "internas"
+        ],
+        "mentions": 19
+      },
+      {
+        "pain": "Crescimento nos custos com planos de sa\u00fade corporativos",
+        "keywords": [
+          "crescimento",
+          "custos",
+          "planos"
+        ],
+        "mentions": 9
+      },
+      {
+        "pain": "Cultura de sil\u00eancio evita discuss\u00f5es sobre sa\u00fade mental",
+        "keywords": [
+          "cultura",
+          "sil\u00eancio",
+          "discuss\u00f5es"
+        ],
+        "mentions": 0
+      }
+    ],
+    "opening_adherence": 0.4117647058823529,
+    "opening_sample": 578,
+    "guardrail_violations": {
+      "promete_desconto": 1,
+      "pressao": 0
+    }
+  },
+  "notes": {
+    "total": 290,
+    "coverage_pct": 0.38333333333333336,
+    "categories": {
+      "PRECO": 44,
+      "CONCORRENCIA": 51,
+      "PEDIU_MATERIAL": 80,
+      "PERGUNTOU_PRECO": 11,
+      "CONFIANCA": 16,
+      "AGENDOU": 107,
+      "AUTORIDADE": 12,
+      "TIMING": 4,
+      "NECESSIDADE": 2
+    },
+    "won_signals": {
+      "PRECO": 5,
+      "AGENDOU": 9,
+      "CONFIANCA": 2,
+      "PEDIU_MATERIAL": 5,
+      "CONCORRENCIA": 3,
+      "PERGUNTOU_PRECO": 2,
+      "AUTORIDADE": 1
+    },
+    "disc_signals": {
+      "PRECO": 1,
+      "AUTORIDADE": 2,
+      "CONCORRENCIA": 2,
+      "PERGUNTOU_PRECO": 2,
+      "AGENDOU": 3,
+      "PEDIU_MATERIAL": 2,
+      "TIMING": 1,
+      "CONFIANCA": 1
+    },
+    "sample": [
+      "Indica\u00e7\u00e3o feita por Bruna Machado, contato atual da prospec\u00e7\u00e3o, que informou que Kauane \u00e9 a pessoa respons\u00e1vel por benef\u00edcios na GMPR Advogados. Na conversa, Bruna disse que eu deveria 'trocar uma ide",
+      "Criei uma tarefa de liga\u00e7\u00e3o de retorno para 23/03/2026 \u00e0s 10:30. Motivo: a chamada de 20/03 \u00e0s 15:51 foi atendida por 9 segundos sem conversa (apenas \u201cAl\u00f4? Eu falo com Andr\u00e9?\u201d), sem informa\u00e7\u00f5es novas.",
+      "Tentei contato hoje (23/03/2026 \u00e0s 10:31). A chamada foi atendida brevemente (11s) com apenas \u201cAl\u00f4? Eu falo com Andr\u00e9?\u201d, sem confirma\u00e7\u00e3o de identidade, cargo ou empresa \u2014 prov\u00e1vel caixa postal/atendim"
+    ],
+    "fields_sample": [
+      "_id",
+      "type",
+      "lead",
+      "project",
+      "__v",
+      "content",
+      "createdAt",
+      "deleted",
+      "source",
+      "updatedAt"
+    ]
+  }
+}

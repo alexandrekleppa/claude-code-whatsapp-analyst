@@ -1,9 +1,13 @@
 # Dados de entrada (sensíveis — contêm telefones e mensagens reais)
-input/whatsapp-conversations/*
+# Ignora TODO conteúdo de input/ (incluindo subpastas por cliente)
+input/**
+!input/.gitkeep
+!input/whatsapp-conversations/
 !input/whatsapp-conversations/.gitkeep
 
-# Relatórios gerados
-output/*
+# Relatórios gerados (podem conter dados sensíveis de clientes)
+# Ignora TODO conteúdo de output/ (incluindo subpastas por cliente)
+output/**
 !output/.gitkeep
 
 # Ambiente e cache
